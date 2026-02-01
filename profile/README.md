@@ -38,9 +38,3 @@ This repository is designed to:
 > **Note:** This repository is **not officially affiliated** with Forsyth County Schools. It is an independent project intended for educational and informational purposes only.
 
 ---
-
-### 🚀 Getting Started
-If you're looking to contribute or use this data:
-1. **Fork** the project.
-2. **Clone** it to your local machine.
-3. **Submit** a Pull Request if you have updated information or new resources to add.
